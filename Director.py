@@ -41,7 +41,7 @@ class Director:
             self (Director): An instance of Director.
         """
         pick_card = input("Higher or lower? ")
-        self.is_playing = (roll_dice == "y")
+        self.is_playing == "y"
        
     def do_updates(self):
         """Updates the player's score.
